@@ -2,7 +2,7 @@
 
 Hello, let me guide you through my IT internship project. During my summer internship at a technical sales company (more in my CV), I reviewed their website and their partner website using exploratory white-box manual QA methods, documenting bugs via screenshots and DevTools. The bugs found are ranging from broken UI to  high-severity systemic functional ones. To make it comprehensible, commentaries were added to the screenshots. Feel free to browse through those. What I'd like to highlight here is that I managed to find bugs that would go unnoticed otherwise, because the page would often load correctly at the first sight.
 
-For better orientation, I recommend both following the numeral order of the files and reading their description.
+For better orientation, I recommend following both the numeric order of the files and reading their description.
 Here's the decipherement of the file names (important):
 - V = An initial letter of the website's name (some of them start with a letter 'T', meaning it's a partner website)
 - MASTER 1 = a first category of bugs found
