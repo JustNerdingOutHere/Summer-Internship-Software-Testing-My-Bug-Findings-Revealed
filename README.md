@@ -5,9 +5,9 @@ Hello, let me guide you through my IT internship project. During my summer inter
 For better orientation, I recommend following both the numeric order of the files and reading their description.
 Here's the decipherement of the file names (important):
 - V = An initial letter of the website's name (some of them start with a letter 'T', meaning it's a partner website)
-- MASTER 1 = a first category of bugs found
+- MASTER 1 = the first category of bugs found
 - _01_ = the specific sub-bug within MASTER
-- the bug behavior description in the file name > it serves as basic information to make sense of it if you're not familiar with what happened there
+- the bug behavior description directly in each file name > it serves as basic information to make sense of it if you're not familiar with what happened there
   
 As a result, a file name can look like this:
 V_MASTER_1_01_ .....(description)
