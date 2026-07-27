@@ -12,5 +12,5 @@ Here's the decipherement of the file names (important):
 As a result, a file name can look like this:
 V_MASTER_1_01_ .....(description)
 
-Note: To protect the company's privacy, manual test cases aren't being published here due to containing sensitive information that could lead to misuse. However, complete test documentation will be available upon a request for companies interested. The names of the screenshot pictures also serve as a brief explanation of what's wrong with the website design/functioning.
+Note: To protect the company's privacy and security, manual test cases aren't being published here due to containing sensitive information that could lead to misuse. However, complete test documentation will be available upon a request for companies interested. The names of the screenshot pictures also serve as a brief explanation of what's wrong with the website design/functioning.
 
